@@ -1,6 +1,7 @@
 # TinnovaTesteLogica
 
-Tarefas: 
+Tarefas:
+
 1 Calculadora Eleitoral
 
 2 Algoritmo Bubble Sort
